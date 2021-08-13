@@ -1,3 +1,3 @@
 # 5G-NR
-5G NR Simulator
-Full work explanation in 'memoria.pdf' file (Spanish).
+
+Full explanation of the work in the file *'memoria.pdf'* (Spanish).
