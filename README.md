@@ -5,6 +5,6 @@ Post: [Francisco Ros - Qualcomm Scholarship and Training Program on 5G Mobile Co
 
 #### Languages
 Python: English\
-Presentation: Spanish\
-Paper: Spanish\
-Post: Spanish
+[Presentation](https://github.com/javierhersan/5G-NR/blob/main/paper.pdf): Spanish\
+[Paper](https://github.com/javierhersan/5G-NR/blob/main/presentation.pptx): Spanish\
+[Post](https://github.com/javierhersan/5G-NR/blob/main/post.pdf): Spanish
