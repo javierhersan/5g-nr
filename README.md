@@ -6,6 +6,6 @@ Final Degree Project: Bachelor of Engineering in [Telecommunication Technologies
 
 #### Languages
 Python: English\
-[Presentation](https://github.com/javierhersan/5G-NR/blob/main/paper.pdf): Spanish\
-[Paper](https://github.com/javierhersan/5G-NR/blob/main/presentation.pptx): Spanish\
+[Presentation](https://github.com/javierhersan/5G-NR/blob/main/presentation.pptx): Spanish\
+[Paper](https://github.com/javierhersan/5G-NR/blob/main/paper.pdf): Spanish\
 [Post](https://github.com/javierhersan/5G-NR/blob/main/post.pdf): Spanish
